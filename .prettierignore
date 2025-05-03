@@ -1,0 +1,27 @@
+ node_modules
+ .next
+ .husky
+ coverage
+ .prettierignore
+ .stylelintignore
+ .eslintignore
+ stories
+ storybook-static
+ *.log
+ playwright-report
+ .nyc_output
+ test-results
+ junit.xml
+ docs
+
+eslint.config.mjs
+tailwind.config.ts
+globals.css
+next.config.ts
+.prettierrc.json
+src/lib/utils.ts
+lint-staged.config.ts
+components.json
+tsconfig.json
+package.json
+src/components/ui/
